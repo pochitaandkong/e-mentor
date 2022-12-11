@@ -1,0 +1,16 @@
+.sec2_2_1{
+    width: 25%;
+    height: 107px;
+    align-items: center;
+    text-align: center;
+}
+.sec2_2_1 h2{
+    font-size: 58px;
+    color: #10B582;
+}
+.sec2_2_box{
+    display: flex;
+}
+.sec2_2{
+    padding-bottom: 120px;
+}

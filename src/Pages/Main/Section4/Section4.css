@@ -1,0 +1,46 @@
+.sec4_box_right h2{
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+.sec4_box_right button{
+    width: 230px;
+    height: 56px;
+    color: white;
+    border: none;
+    border-radius:  0 20px 0 20px;
+    background: #FA9F42;
+    margin-top: 50px;
+}
+.sec4_box_right{
+    color: white;
+    margin-left: 130px;
+}
+.Section4{
+    background: #10B582;
+    padding: 120px 0 120px 0;
+    font-family: Corbel;
+}
+.sec4_box{
+    display: flex;
+}
+.sec4_box_left img{
+    border-radius:  0 120px 0 0;
+    margin-top: 20px;
+}
+.sec4_box_left{
+     position: relative;
+     z-index: 0;
+ }
+.sec4_box_left:before{
+    content: '';
+    display: block;
+    width: 470px;
+    height: 332px;
+    border: 2px dashed white;
+    top: -30px;
+    left: 30px;
+
+    border-radius:  0 79px 0 0;
+    position: absolute;
+    z-index: -1;
+}

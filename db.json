@@ -1,0 +1,182 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "img": "https://i.ytimg.com/vi/MDJjtX2eygY/maxresdefault.jpg",
+      "title": "Переходы в motion-design",
+      "price": "8.99$",
+      "comment": "Переходы в моушн-дизайне широко используются для того, чтобы сделать ваш рассказ более плавным и естественным.  Без переходов внимание аудитории будет прерываться, и это скажется на их понимании и общем впечатлении."
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.dribbble.com/users/846207/screenshots/12164318/deconstructed_text_animation.png?compress=1&resize=400x300",
+      "title": "Разбитый текст в motion-design",
+      "price": "9.99$",
+      "comment": "Делает текст разбитым и позволяет заполнять пробелы"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8KMK_5UzmhxB-KKY5Sp0K0ZFxyMu-gg5OTaCKTulGpsAWHM7FEv523ZIpP3JnbzvLXQ&usqp=CAU",
+      "title": "Сложные визуальные эффекты в motion-design",
+      "price": "7.99$",
+      "comment": "Сложные визуальные эффекты-позволяют публике заинтересоваться и более вникнуть"
+    },
+    {
+      "id": 4,
+      "img": "https://videozayac.ru/wp-content/uploads/2020/11/prevyu_programmy_dlya_3d_modelirovaniya_i_animaczii_2.jpg",
+      "title": "Смешивание 2D и 3D в motion-design",
+      "price": "9.99$",
+      "comment": "Смешивание 2D и 3D-создание чего-то вроде аниаций с использованием 2D и 3D как подручное средство"
+    },
+    {
+      "id": 5,
+      "img": "https://i.pinimg.com/originals/d4/5e/e8/d45ee8f889404f0a21919bb206fa2204.gif",
+      "title": "Анимированные логотипы в motion-design",
+      "price": "8.99$",
+      "comment": "Анимированные логотипы - привлекание внимание логотипом . тем более то что не многие используют анимированные логотипы"
+    },
+    {
+      "id": 6,
+      "img": "https://neurocrm.ru/wp-content/uploads/2019/09/%D1%82%D0%B0%D1%80%D0%B3%D0%B5%D1%82-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC.jpeg",
+      "title": "Таргет в Instagram",
+      "price": "8.99$",
+      "comment": "отличительный"
+    },
+    {
+      "id": 7,
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMHBhUSEBAVFRURFhIaEBEREBUXERcdGBgXFiAgFhgYHSggGRolGxsVITEhJykrLi8uGyA1ODMtNygtLisBCgoKDg0OGhAQGS8mICYtKy01MCsyLS0rLzUwLy0tKzE1LTItLS0vLS0rLTIvKy8tKy0rLS83Ky8tLS4tLS0vLf/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgEDBAUHAgj/xAA/EAACAQIEAgcFBQYGAwEAAAAAAQIDEQQFEiEGMRMiQVFhcYEykaGx0QcUFkJzNVJigpKyIyQzQ1NyJYPCFf/EABoBAQADAQEBAAAAAAAAAAAAAAABAwQCBQb/xAAnEQEAAgIBBAICAQUAAAAAAAAAAQIDEQQSEyExQVEiMmEFM3GRof/aAAwDAQACEQMRAD8A2IAPSWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAe6VN1Z2Xx5epEzERuR4BuqORdJFXqPrfmUOqvO7T+BkQ4Rq1HtUh63T+RTXkY7epTMTHtHQSX8GVv36fvl9DzHg+rNu1Wm7OztJ7PnZ7bPkd92n253COAkv4Mrfv0/fL6FHwZXS9un739B3afZuEbBkY/Azy+voqRs/g/J9pjncTtIACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGXYR5hmEKUWk56+s+S0xcvmkvUz8Rw1iaMv9PUu+Ek17nZ/A564idbNtQDYrIsS/wDYn7l9TXYj/LYp06nVnFpShKye6TXns0RN6x8uq0tfxWN/4DPwOqjg6lSMbuKWnqOXuV1d+pgGwyvN40MRCg9blO7irN07K7tfs7X6eRn5kzGJZgjd0iynEOLiqi9vleNrPfa1383c3kpdGtuzkaClU6eqtVk3dRXdtu/dt6m2U9SSfNHm458Os9fLY4dVHhN5xcm21Lo3pSbulp1c1GyvfxK06dSM9507X6yVFpv11vcw8Rj5YVRUaFSonBvVTSaTVtpLsv3q/kYWGzPoZPThsXKUUtUW3O17v88/jttbka2NIgWKc9dNOzV0nZqzV+x+JYzOSjl9TVr06ZKXRdJ0lmrdR0+upb847rsA0/HdFSyyM7bxmkn5p/QgpL88pxpcJQUHVcek2eInWnV5y9qVbrvwv2WIgbMH6u6hRuxUuZcqFbHuGKlohp6s99mpRk+XfFSj6l9Y2rzZO3Xa2CtfDLB4yVONTWoWWq217Xel33XLfa/cigmNOsd+uu9aAAQ7AAAAAAAAAAAAAAAAAAABjY3GxwUE5X3vZJbux61Tp0qNSaio4lSdOMdTlFXtFzlbT1mpbc9vc04m9YnS+AA7Z/DmI+7cR0L8pyqQfhelOS+MUvU6HUxsaau2lY5bF6asZLnCUZRfjF393Z6l6viJ4up15t+fJenYUXxdVtomHR6GZRxP+m1Lykvqcw4rjUxXFk6tFpRbpqd7fkShJb+T7PUmeXacAoRjJ21ddrdO+zuvpyIninqrP4+ZlxxXLbXw14b340zevuY1/v29YGThioySvpab2vtfc22Ngsrl0ip6tMXGU4qN1FPUt+drP4Gry6bp46Nu1pe/Y2nFNT7rkjk5qMYOLqSlHUtPirrwI529xCME6jazk+OlisRKqobRjaEW97t9vokSfDS1Ur332u/NX+ViHcO4qNTDusnbp1J0Katqad2tlsux+RjcacXvIqToUpKVSVlfdtLS9UrRd171dxfdcxYomZ1DrNMe3TqVXRTSstkj394/hRwrg/7TquXYpUcVLpqTdk4xbqRu1upXvJb+y16rkdrjVU4pp3TSaa5NPuN0xr2we2V0/wDCh0/8KMbWVU7kDWcZT6TJOVv8SPyZBSb8XP8A8F/7I/JkINeD9XdQpKKmt0VBeTET4l5hBQjZHoAERERqAABIAAAAAAAAAAAAAAAAAAMDOcL95weyvKO8e99693yMiliquY8KLDVL0nRqU5UHGKjGUUmpKcVzafX1Pm2XwTvxpXbFE22AAhYAADcYfFyq4CSSjfS0243ly2a7tjTp3MnAVuir+EtmYuJaw1eWppR3abdku+7MNZ7Weaz6n0vmOrHv6a3iLNXk+WOpFpTulSurrVfuXqS1Thxfwg2naOIpvmutFvv73GXyOM8YZus0x2lN9FDTol+Vt3vLddqUkt+Sv3nQPsdxtsrqUutaFVuOqO1ppOya2dndvu1LvV6+Z5/KPhxgtu2l/Jc1WS8KUaOIrQhXjqp0lp2Tg3BRlJLZ3it7bdvecixWJlmGJcnJSqTm3Um6miUrWVnqasvHa9rJbO8y+17LXl+edJFuNLEq81Fys6kElur6d1pe++0vIgqh0UJKSWp2jaftK1pPbUmn7PZyuMMRMdUfKrLuJ6fpWvUtFJJJxlLTKDdktraW99mm079r7bn0T9n+PeO4Mw05PfQ4v+SUqe3h1T5zhUlCSa0pwWzVk1vb+Z7+L923fuAsLLAcIYem+ehyt+pKVT/6Kebk6KRP8mGu5S7pPEKvbtNe2wk5I86OVaJaO1D1xNU6TINuyrH5MhpKs6ho4df6sf7WRU9/h368UWlRMamYAAagAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATsy9jVHE4fddhZK36ljJy8E5K7r7hdhydM+fTnOe8KuGGh92jqk21KC3kldq+97JLTurePJG+4Wpz4a4lp0Jz1Qrwn0bSdtW0ns3ZbxS2XbEkdKiqbbXN832mq4qpN5cqsbqdCcJwkuas7eq3vbwIjBacUxafKuZrW/VVMuJ8kp8VZI6U3ZuzpztdwkuT+aa7mzgWOw0sHjpU6+pTpymqqW8rpWSWp9aO0Hq7m+5X7xkGbRx2XQqw5TV7XvZ8mvNNNehzv7Tciazl42N3Tq9H0jh7VOUUo3+Ed+8wca/TaaWX8nH1Vi9UNwlOGLxVGKjpblCM1uk76YppuT3b1diS9bL6TwsVCmklZLZLwWx898HUI1eKcNF8lVvq5J6E5r4xWx3/CO8Sr+oW/KsKcEeJZUuZdpwLKW5lQ5GKkbldLA4jVsgf6sfkyHkx4l/YL/Vj8mQ4+i4X9qGefcgANaAAo5JPnz5A0qAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmbUfvGV1Y99Opz5ey2ZZcw1H7xXjD996f6tiJ9EoVwFxDTy6nKnWlpjJ66Tle13s48udlHlztIx+OOM45jT6HC3VNpOpU3UpXs0ormo7q77eXIjeY4V4avUXWvTlLpNvYacYtJ33614uy2t47eIYnTB9SMnLmnG0rNOLtJdazUn3+Fnuef2KTfrO/fo6FrCVZYTExqRe6kpQl2Xi3b49ngfQXDmYQzbJ6delyqLdPnFrZxfindHDa/U1dG6b1OKitcHFuFlurKN9LTutkr+yST7O+J//AMTHOjN/5es022raJWVpvt0tab38H2bxyOPGSN/MOMd5rLsUXYvRrWRZU0yrV0ef2Yho6pWs/qdJw+/1Y/2siRKs5Wnh5/rR/tZFT2OJGsUQqn2AA1AbR5fGjgVOai9WlzcnSUVG9ra6sXFW3k0rN9Wz2NWe4VZU/ZnKPjGTT+BRmx3vrpnTRxssY77lbnTVLFyUW9KjC8XqspNanp1tyS0uGzbs7rsKnmEdK5t8223dtt3bb7W3dnouhXltFrzMAAJVgAAAAAAAAAAAAAAAAAAGblGGhisX/iN6Iq89Nk7LxfJdr8ttzCLlCtKhU1Rdn8PUz8mMk4rRi/bXh1TW/wAvTaZ1g6VC7p7Wa079WSf7t222u35bo05R3lUvJuT5Xk7tLuVrKK8Eu4qZf6Zj5NMcxyJ3O/ny6yWrM+I9f9/kAB6SsMnLf2hT/wC8PmjGMjLf2hT/AO8Pmjm3qRLMbwtgq+daJ5XCfT651cQ4pw1Nyk9d3zcrP+bwY/A+WVnKUstot3X+3du77b9t+fZ4m4zvH1cBSi6OHnXcppSjCUY6Y2cpSu+bsrJdsnFXS3WbKTS2Z5/lxMxOtQ0NDgTLY2ksvoxk1v1FqV1urp+ZX8A5brv9wo3VrPRyt3G+hJuO+x4pVJTvdWtyJ3KFunlNGlTUY0klFJJb7JbHtZfSX5Ee9cukt2d+x6u+851Cdyj3GdCNDJLRVr1I3t5MgpPONv2Iv1I/JkDNmD9XUAAL0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF/AzVPGwb5KUW/eiwCJjY6+ndFTn2WcVVcDQUJRU0vZ1NqS9e0zfxtL/AII/1v6GOcN3GpTDEScaeztdxV+67S9+5blHoWmm92k05N3vttflbnt3MiUuNZSjZ0ItPmnN/Q8Q4wcJX6BNrlerJ28r8iO1f6NSnAIX+Npf8Ef639Cj42nbahH+t/Qdm/0alseO6iWVRjfdzVl5JkDMzM8yqZniNVR8vZS5LyMM1Y69NdS6iAAFiQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//Z",
+      "title": "смм в Таргет в Instagram",
+      "price": "8.99$",
+      "comment": "смм в инстаграме"
+    },
+    {
+      "id": 8,
+      "img": "https://smmplanner.com/blog/content/images/2021/07/1-nazvanie-knopki-nastrojki-targeta-v-instagrame-periodicheski-menyaetsya-no-sut-ostaetsya-prezhnej.jpg",
+      "title": "Реклама через блогеров и инфлюенсеров-Таргет в Instagram",
+      "price": "8.99$",
+      "comment": "Реклама через блогеров и инфлюенсеров."
+    },
+    {
+      "id": 9,
+      "img": "data:image/jpeg;base64,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",
+      "title": "Таргетированная реклама через профиль в Instagram-Таргет в Instagram",
+      "price": "8.99$",
+      "comment": "Таргетированная реклама через профиль в Instagram."
+    },
+    {
+      "id": 10,
+      "img": "https://onlypult.com/blog_uploads/48a26e9b0ca9482d02ea6921bed44c5f.png",
+      "title": "Таргетированная реклама через кабинет в Facebook-Таргет в Instagram",
+      "price": "8.99$",
+      "comment": "Таргетированная реклама через кабинет в Facebook."
+    },
+    {
+      "id": 11,
+      "img": "https://romi.center/wp-content/uploads/2020/09/%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%83-%D0%B2-%D0%BB%D0%B5%D0%BD%D1%82%D0%B5-%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC.jpg",
+      "title": "Эффектные презентации-Видео - Оживите ваш бренд",
+      "price": "8.99$",
+      "comment": "Видео - Оживите ваш бренд."
+    },
+    {
+      "id": 12,
+      "img": "https://www.visme.co/wp-content/uploads/2021/05/Ad-maker-what-is-an-ad.png",
+      "title": "Эффектные презентации-Документы - Формализуйте ваш брендинг",
+      "price": "8.99$",
+      "comment": "Документы - Формализуйте ваш брендинг."
+    },
+    {
+      "id": 13,
+      "img": "https://presentation-creation.ru/images/articles/o-vagnosti-infografiki-v-presentaciyah/infografika-primer-coronavirus.jpg",
+      "title": "Эффектные презентации-Инфографика - Визуализируйте информацию",
+      "price": "8.99$",
+      "comment": "Инфографика - Визуализируйте информацию."
+    },
+    {
+      "id": 14,
+      "img": "https://visme.co/blog/wp-content/uploads/2019/10/monthly-marketing-report-business-presentation-template.jpg",
+      "title": "Эффектные презентации",
+      "price": "8.99$",
+      "comment": "Полиграфия - Создайте контент для печати."
+    },
+    {
+      "id": 15,
+      "img": "https://media.lpgenerator.ru/uploads/2022/06/07/1.png",
+      "title": "Эффектные презентации",
+      "price": "8.99$",
+      "comment": "Графики и диаграммы - Оживите ваши данные."
+    },
+    {
+      "id": 16,
+      "img": "https://static-cse.canva.com/blob/713657/ar8028kontentstrategiya.jpg",
+      "title": "SMM-стратегия",
+      "price": "8.99$",
+      "comment": "Контентная политика"
+    },
+    {
+      "id": 17,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2oc0YLw8ZynlagLfCYSwASa2pVCBFkOkCQ&usqp=CAU",
+      "title": "SMM-стратегия",
+      "price": "8.99$",
+      "comment": "Анализ конкурентов в социальных сетях"
+    },
+    {
+      "id": 18,
+      "img": "https://sendpulse.com/blog/wp-content/uploads/2022/03/Jetapy-sozdanija-SMM-strategii.png",
+      "title": "SMM-стратегия",
+      "price": "8.99$",
+      "comment": "Стратегия коммуникации"
+    },
+    {
+      "id": 19,
+      "img": "https://gbcdn.mrgcdn.ru/uploads/geekbrains/public/ckeditor_assets/pictures/10941/retina-5c1a5ffed1612f4c953a67a53d9a9631.png",
+      "title": "SMM-стратегия",
+      "price": "8.99$",
+      "comment": "Методы продвижения"
+    },
+    {
+      "id": 20,
+      "img": "https://blog.ringostat.com/wp-content/uploads/2021/05/image92.png",
+      "title": "SMM-стратегия",
+      "price": "8.99$",
+      "comment": "Цели продвижения"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 21,
+      "img": "https://id.fashion.ru/upload/main/656/user_33674.jpg",
+      "title": "Катя, ведущий дизайнер\nTailGroup",
+      "price": "11.99$"
+    },
+    {
+      "id": 22,
+      "img": "http://auth.zakon.kz/static/Contacts/20220810/2523366e-d8b6-4db4-859b-00c7de14f3be%D0%94%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0.jpg",
+      "title": "Марина, маркетолог\nHeaders Market",
+      "price": "11.99$"
+    },
+    {
+      "id": 23,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI2sPMoSPl2i1ji-_qSjiw2HuzzK5FiocCvkdfYuokru4b5UTsHYhFEx1CInnnW-UYGdo&usqp=CAU",
+      "title": "Сава, PR-менеджер\nCentral Media",
+      "price": "11.99$"
+    },
+    {
+      "id": 24,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vZdlLpQNhAndZnr2mOCIo3WiTM_Tm8gTeg&usqp=CAU",
+      "title": "Паша, основатель\nLeadCompany",
+      "price": "11.99$"
+    },
+    {
+      "id": 25,
+      "img": "https://cdn.forbes.ru/forbes-static/750x422/new/2022/07/999-62d82008c1470.jpg",
+      "title": "Саша, главный\nредактор Just Journal",
+      "price": "11.99$"
+    },
+    {
+      "id": 26,
+      "img": "https://i0.wp.com/sun9-8.userapi.com/CYyjryHy4-WBzfMJX46KyyLriwy6DhHd3mKG5w/anWLq4emT4o.jpg?w=1000&ssl=1",
+      "title": "Лёня, ведущий разработчик\nYmail",
+      "price": "11.99$"
+    }
+  ]
+}

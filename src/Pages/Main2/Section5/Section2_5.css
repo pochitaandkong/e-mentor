@@ -1,0 +1,22 @@
+.sec5-box-2 button{
+    Width: 230px;
+    Height: 56px;
+    color: white;
+    border: none;
+    border-radius:  0 20px 0 20px;
+    background: #FA9F42;
+    margin-top: 50px;
+}
+.Section2_5{
+    background: url("../../../img/photo2.5.png");
+    padding: 120px 0;
+    color: #353A5A;
+
+}
+.sec5-box-2 h2{
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+.sec5-box-2{
+    margin-left: 600px;
+}

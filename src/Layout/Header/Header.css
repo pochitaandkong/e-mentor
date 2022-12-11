@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+header{
+    position: absolute;
+    width: 100%;
+}
+.header1 ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    column-gap: 40px;
+    padding-top: 40px;
+
+    color: #353A5A;
+    font-family: Cambria;
+}
+.header1{
+    color: white;
+}

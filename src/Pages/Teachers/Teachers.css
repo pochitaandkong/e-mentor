@@ -1,0 +1,16 @@
+.teachers .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.teachers{
+
+    padding-top: 120px;
+}
+.teacher{
+    width: 30%;
+}
+.teacher img{
+    width: 100%;
+}

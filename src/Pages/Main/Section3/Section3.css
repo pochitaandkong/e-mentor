@@ -1,0 +1,36 @@
+.sec3__box{
+    display: flex;
+    justify-content: space-between;
+    color: #353A5A;
+    font-family: "Fira Code Medium";
+}
+.sec3_right_top{
+    display: flex;
+}
+.sec3_right_bottom{
+    display: flex;
+}
+.sec3-left h2{
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+.sec3-left button{
+    width: 230px;
+    height: 56px;
+    background: #10B582;
+    color: white;
+    border: none;
+    border-radius:  0 20px 0 20px;
+    margin-top: 50px;
+}
+.sec3-1  p{
+    text-align: center;
+    padding-top: 15px;
+}
+.sec3-1{
+    margin: 0 0 30px 30px;
+}
+.sec3__box{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}

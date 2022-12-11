@@ -1,0 +1,22 @@
+.sec6-box button{
+    width: 230px;
+    height: 56px;
+    color: white;
+    border: none;
+    border-radius:  0 20px 0 20px;
+    background: #FA9F42;
+    margin-top: 50px;
+}
+.Section6{
+    background: url("../../../img/sec6.png");
+    padding: 120px 0;
+    color: #353A5A;
+
+}
+.sec6-box h2{
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+.sec6-box{
+    margin-left: 600px;
+}

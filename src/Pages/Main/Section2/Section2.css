@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 0 ;
+    width: 100%;
+}
+.box1{
+    width: 20%;
+    text-align: center;
+}
+.box1 h2{
+    color: #10B582;
+    font-size: 58px;
+    margin-bottom: 15px;
+}

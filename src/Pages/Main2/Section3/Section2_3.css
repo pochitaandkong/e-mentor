@@ -1,0 +1,44 @@
+.sec2_3_left h2{
+    font-size: 58px;
+}
+.sec2_3_left{
+    color: white;
+    font-family: Corbel;
+}
+.sec2_3_left button{
+    Width: 230px;
+    Height: 56px;
+    background: #FA9F42;
+    border-radius: 0 25px 0 25px;
+    border: none;
+    margin-top: 50px;
+}
+.sec2_3_box{
+    display: flex;
+    column-gap: 90px;
+
+}
+.sec2_3{
+    padding: 120px 0;
+    background: #10B582;
+}
+.sec2_3_right img{
+    border-radius:  120px 0 0;
+}
+.sec2_3_right{
+    position: relative;
+    z-index: 0;
+}
+.sec2_3_right:before{
+    content: '';
+    display: block;
+    width: 540px;
+    Height: 286px;
+    border: 2px dashed white;
+    top: -30px;
+    right: 30px;
+
+    border-radius: 120px 0  0 0;
+    position: absolute;
+    z-index: -1;
+}
